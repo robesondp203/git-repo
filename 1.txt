@@ -1,1 +1,2 @@
-first
+same changes
+other changes
